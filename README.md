@@ -3,7 +3,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chhand2808&label=Profile%20views&color=0eb418&style=plastic" alt="chhand2808" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/basiclogintoapp.appspot.com/o/WhatsApp%20Image%202024-01-29%20at%209.41.34%20PM.jpeg?alt=media&token=4b1d9756-811f-4b9e-aa30-789680a82c9f" />
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1Nh2C42_Y-JKa0eH57G2egS7W9Kc-hpsg/view?usp=sharing" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
