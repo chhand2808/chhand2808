@@ -32,5 +32,6 @@
 </div>
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhand2808&show_icons=true&locale=en&layout=compact" alt="chhand2808" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chhand2808&theme=blue-green&hide_border=false&include_all_commits=true&hide_title=true" alt="chhand2808" /></p>
   <img src="https://github.com/chhand2808/chhand2808/blob/main/dist/snake.svg" alt="Snake animation" />
 </div>
