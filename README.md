@@ -106,7 +106,11 @@ $ hobbies --list
 </div>
 <h3>Check out What I'm Listening</h3>
 
+<div align="center">
+
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mbf56ntybnyln5a4qleyp6x47y&width=500)
+
+</div>
 
 ---
 
