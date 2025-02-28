@@ -70,8 +70,9 @@ $ hobbies --list
     <td><strong style="font-size: 1.2em;">🌍 <a href="https://github.com/chhand2808/cultural_chatbot">Cultural Insights Chatbot</a></strong></td>
   </tr>
   <tr>
-    <td>📚</td>
-    <td><strong style="font-size: 1.2em;">Learning **Golang** & **DevOps**</strong></td>
+    <td><a href="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2FGroup%2033.png?alt=media&token=32c6e661-9c6e-4495-9fb0-8d0a6bce94fe" width="100"/></a>
+    </td>
+    <td><h3>📚 Learning <strong>Golang & DevOps</strong></h3></td>
   </tr>
 </table>
 
@@ -130,11 +131,10 @@ $ hobbies --list
   <a href="https://www.linkedin.com/in/chhand-chaughule/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/chhand2808">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  <a href="https://devfolio.co/@Chhand_2808">
+    <img src="https://img.shields.io/badge/DevFolio-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
   </a>
   <br/>
-  <a href="https://chhand2808.devfolio.io" target="_blank" style="display: inline-block; background: #FF5733; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">🚀 View My DevFolio</a>
 </div>
 
 ---
