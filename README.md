@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=chhand2808&label=Profile%20views&color=0eb418&style=plastic" alt="Profile Views" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/software-developer.jpg?alt=media&token=bef113c2-0974-41f6-878d-6dd8cf0cce2c" />
+<img align="right" alt="Coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg4.jpg?alt=media&token=6d081565-49ea-4c72-9e99-9c61dacf64dc" />
 
 ---
 
@@ -66,7 +66,7 @@ $ hobbies --list
     <td><strong style="font-size: 1.2em;">🎼🎵 <a href="https://github.com/chhand2808/Alankar-Generator">Alankar Generator</a></strong> - Musical Notes Generation App</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/chhand2808/cultural_chatbot"><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Flogo.png?alt=media&token=8b546ccb-cbe8-4f4c-ad68-9b1007a3ae21" width="100"/></a></td>
+    <td><a href="https://github.com/chhand2808/cultural_chatbot"><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fabout_us.png?alt=media&token=54e23002-cd0c-4e73-95ac-47fd3edbbda1" width="100"/></a></td>
     <td><strong style="font-size: 1.2em;">🌍 <a href="https://github.com/chhand2808/cultural_chatbot">Cultural Insights Chatbot</a></strong></td>
   </tr>
   <tr>
