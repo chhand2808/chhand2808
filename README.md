@@ -1,6 +1,10 @@
 <div style="background-color: white">
 <h1 align="center">Hi 👋, I'm Chhand Chaughule</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">
+  - [X] Code
+  - [ ] Review
+  - [ ] Commit
+</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chhand2808&label=Profile%20views&color=0eb418&style=plastic" alt="chhand2808" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/software-developer.jpg?alt=media&token=bef113c2-0974-41f6-878d-6dd8cf0cce2c" />
