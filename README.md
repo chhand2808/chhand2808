@@ -70,7 +70,7 @@ $ hobbies --list
     <td><strong style="font-size: 1.2em;">🌍 <a href="https://github.com/chhand2808/cultural_chatbot">Cultural Insights Chatbot</a></strong></td>
   </tr>
   <tr>
-    <td><a href="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2FGroup%2033.png?alt=media&token=32c6e661-9c6e-4495-9fb0-8d0a6bce94fe" width="100"/></a>
+    <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2FGroup%2033.png?alt=media&token=32c6e661-9c6e-4495-9fb0-8d0a6bce94fe" width="100"/>
     </td>
     <td><h3>📚 Learning <strong>Golang & DevOps</strong></h3></td>
   </tr>
