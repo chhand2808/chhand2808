@@ -1,4 +1,4 @@
-<div style="background-color: black">
+<div style="background-color: white">
 <h1 align="center">Hi 👋, I'm Chhand Chaughule</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chhand2808&label=Profile%20views&color=0eb418&style=plastic" alt="chhand2808" /> </p>
