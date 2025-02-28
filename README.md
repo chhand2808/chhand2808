@@ -59,23 +59,23 @@ $ hobbies --list
 <table>
   <tr>
     <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg1.jpg?alt=media&token=2354b05e-7b6f-4bbe-9b11-5212b4af28b3" width="500"/></td>
-    <td><strong>🏆 1st at SunHacks International Hackathon 2024 @Sandeep University Nashik</strong><br/>TopGoats.AI is an all-in-one job preparation platform integrating AI/ML, AR/VR, and Generative AI. From AI interview bots to resume scoring and online tutoring, it offers everything you need to get job-ready—all in one place.<br/><a href="https://devfolio.co">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
+    <td><h2><strong>🏆 1st at SunHacks International Hackathon 2024 @Sandeep University Nashik</strong></h2><br/>TopGoats.AI is an all-in-one job preparation platform integrating AI/ML, AR/VR, and Generative AI. From AI interview bots to resume scoring and online tutoring, it offers everything you need to get job-ready—all in one place.<br/><a href="https://devfolio.co">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
   </tr>
   <tr>
     <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg4.jpg?alt=media&token=6d081565-49ea-4c72-9e99-9c61dacf64dc" width="500"/></td>
-    <td><strong>🏆 1st at SPIT Hackathon 2025 @SPIT Mumbai</strong><br/>Furnish.IO is an AR/VR furniture styling app available on mobile, web, and wearables. With 2D room scanning, floor map generation, and a vast furniture library, it redefines how users visualize and style spaces.<br/><a href="https://devfolio.co/projects/furnishio-afda">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
+    <td><h2><strong>🏆 1st at SPIT Hackathon 2025 @SPIT Mumbai</strong></h2><br/>Furnish.IO is an AR/VR furniture styling app available on mobile, web, and wearables. With 2D room scanning, floor map generation, and a vast furniture library, it redefines how users visualize and style spaces.<br/><a href="https://devfolio.co/projects/furnishio-afda">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
   </tr>
   <tr>
     <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg3.jpg?alt=media&token=67d9657d-658c-4c52-8fc3-e4849871f678" width="500"/></td>
-    <td><strong>🏆 1st Place at Ingenium 2.0 @IEEE FR.CRCE</strong><br/>MediSense is an AI-driven healthcare platform ensuring seamless, secure, and inclusive medical access. With gesture controls, real-time vitals tracking, AI diagnostics, and telemedicine, it enhances care for all, especially those with mobility challenges. <br/><a href="https://devfolio.co/projects/medisense-e458">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
+    <td><h2><strong>🏆 1st Place at Ingenium 2.0 @IEEE FR.CRCE</strong></h2><br/>MediSense is an AI-driven healthcare platform ensuring seamless, secure, and inclusive medical access. With gesture controls, real-time vitals tracking, AI diagnostics, and telemedicine, it enhances care for all, especially those with mobility challenges. <br/><a href="https://devfolio.co/projects/medisense-e458">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
   </tr>
   <tr>
     <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg2.jpg?alt=media&token=7481db95-4abd-4e4f-9ca9-57cd4d1bc4ef" width="500"/></td>
-    <td><strong>🏆 1st in College at BitNBuild International Hackathon2024</strong><br/>Corporate Buzz simplifies corporate tournament management with scheduling, registrations, sponsorships, and real-time updates across web and mobile. Built with Django and Flutter, it ensures seamless access and effortless organization.<br/><a href="https://devfolio.co/projects/corporate-buzz-c2b4">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
+    <td><h2><strong>🏆 1st in College at BitNBuild International Hackathon2024</strong></h2><br/>Corporate Buzz simplifies corporate tournament management with scheduling, registrations, sponsorships, and real-time updates across web and mobile. Built with Django and Flutter, it ensures seamless access and effortless organization.<br/><a href="https://devfolio.co/projects/corporate-buzz-c2b4">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
   </tr>
   <tr>
     <td><img src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fprojects%2F1e7ef76f630141a39e3294b2c25ac5a7%2F2857c42b-2ff4-49a2-b75a-4770d58690c3.jpeg&w=1440&q=75" width="500"/></td>
-    <td><strong>🏆 OutFit Hub @BitNBuild ONLINE ROUND</strong><br/>Outfit Hub is a smart, sustainable virtual wardrobe using AR/VR and AI for virtual try-ons, style tips, and ethical shopping. With Django and Android integration, it makes fashion smarter and greener.<br/><a href="https://devfolio.co/projects/outfit-hub-3129">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
+    <td><h2><strong>🏆 OutFit Hub @BitNBuild ONLINE ROUND</strong></h2><br/>Outfit Hub is a smart, sustainable virtual wardrobe using AR/VR and AI for virtual try-ons, style tips, and ethical shopping. With Django and Android integration, it makes fashion smarter and greener.<br/><a href="https://devfolio.co/projects/outfit-hub-3129">🔗 <img src="https://img.shields.io/badge/View%20Project%20in%20DevFolio-3770FF"/> </a></td>
   </tr>
 </table>
 
