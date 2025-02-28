@@ -62,11 +62,11 @@ $ hobbies --list
     <td><strong style="font-size: 1.2em;">🎮🕹️ <a href="https://play.google.com/store/apps/details?id=com.consolegaming.consolegaming&pcampaignid=web_share">Console Gaming</a></strong> - Gaming Studio Application #Do check it out</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/chhand2808/FraudBlock"><img src="https://via.placeholder.com/100" width="100"/></a></td>
-    <td><strong style="font-size: 1.2em;">🎼🎵 <a href="https://github.com/chhand2808/FraudBlock">Alankar Generator</a></strong> - Musical Notes Generation App</td>
+    <td><a href="https://github.com/chhand2808/Alankar-Generator"><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2F5219c545-90ed-46a7-ba4c-3b8ffe572769.jpg?alt=media&token=6c6a1098-55ae-45db-9c65-cf2aa6610924" width="100"/></a></td>
+    <td><strong style="font-size: 1.2em;">🎼🎵 <a href="https://github.com/chhand2808/Alankar-Generator">Alankar Generator</a></strong> - Musical Notes Generation App</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/chhand2808/cultural_chatbot"><img src="https://via.placeholder.com/100" width="100"/></a></td>
+    <td><a href="https://github.com/chhand2808/cultural_chatbot"><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Flogo.png?alt=media&token=8b546ccb-cbe8-4f4c-ad68-9b1007a3ae21" width="100"/></a></td>
     <td><strong style="font-size: 1.2em;">🌍 <a href="https://github.com/chhand2808/cultural_chatbot">Cultural Insights Chatbot</a></strong></td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ $ hobbies --list
     "Code is like humor. When you have to explain it, it’s bad." 😆
   </blockquote>
   <br/>
-  <a href="https://v2.jokeapi.dev/joke/Programming?type=single" target="_blank" style="background: #008CBA; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">🎭 Generate Random Programming Joke</a>
+  <a href="https://v2.jokeapi.dev/joke/Programming?format=txt&type=single" target="_blank" style="background: #008CBA; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">🎭 Generate Random Programming Joke</a>
 </div>
 
 ---
