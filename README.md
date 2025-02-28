@@ -120,7 +120,3 @@ $ hobbies --list
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/chhand2808)  
 
 ---
-
-### 🎉 **Extras**
-- 🎨 Want to build a cool GitHub profile? Check out [this guide](https://rahuldkjain.github.io/gh-profile-readme-generator/)  
-- 🚀 Want awesome stats? Use [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)  
