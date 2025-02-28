@@ -56,11 +56,27 @@ $ hobbies --list
 ---
 
 ### 🚀 **Currently Working On**
-- 🏠 [FraudBlock](https://github.com/chhand2808/FraudBlock) - Fraud detection using ML  
-- 🌍 [Cultural Insights Chatbot](https://github.com/chhand2808/chatbot-project)  
-- 📚 Learning **Golang** & **DevOps**  
+<table>
+  <tr>
+    <td><a href="https://play.google.com/store/apps/details?id=com.consolegaming.consolegaming&pcampaignid=web_share"><img src="https://play-lh.googleusercontent.com/FfZR46R4ElW3JDV0l74Hy1TK0r-_n7vjt4BH7isX6c3cpMeH225CdJi-pkTLXUeQRTc=w480-h960-rw" width="100"/></a></td>
+    <td><strong style="font-size: 1.2em;">🎮🕹️ <a href="https://play.google.com/store/apps/details?id=com.consolegaming.consolegaming&pcampaignid=web_share">Console Gaming</a></strong> - Gaming Studio Application #Do check it out</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/chhand2808/FraudBlock"><img src="https://via.placeholder.com/100" width="100"/></a></td>
+    <td><strong style="font-size: 1.2em;">🎼🎵 <a href="https://github.com/chhand2808/FraudBlock">Alankar Generator</a></strong> - Musical Notes Generation App</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/chhand2808/cultural_chatbot"><img src="https://via.placeholder.com/100" width="100"/></a></td>
+    <td><strong style="font-size: 1.2em;">🌍 <a href="https://github.com/chhand2808/cultural_chatbot">Cultural Insights Chatbot</a></strong></td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td><strong style="font-size: 1.2em;">Learning **Golang** & **DevOps**</strong></td>
+  </tr>
+</table>
 
 ---
+
 
 ### 📊 **GitHub Stats**
 <p align="center">
