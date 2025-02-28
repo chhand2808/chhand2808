@@ -116,9 +116,9 @@ $ hobbies --list
 
 ### 💡 **Fun Fact**
 <div align="center" style="background: #f4f4f4; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
-  <blockquote style="font-size: 1.2em; font-style: italic; color: #555;">
+  <h2>
     "Code is like humor. When you have to explain it, it’s bad." 😆
-  </blockquote>
+  </h2>
   <br/>
   <a href="https://v2.jokeapi.dev/joke/Programming?format=txt&type=single" target="_blank" style="background: #008CBA; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">🎭 Generate Random Programming Joke</a>
 </div>
