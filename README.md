@@ -81,9 +81,6 @@ $ hobbies --list
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chhand2808&theme=blue-green&hide_border=false" />
-</p>
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chhand2808&theme=dracula&margin-w=15" />
 </p>
 <p align="center">
