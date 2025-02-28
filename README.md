@@ -103,7 +103,7 @@ $ hobbies --list
 ### 🎶 **Now Playing**
 > If you love music, add this Spotify widget:
 ```md
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mbf56ntybnyln5a4qleyp6x47y)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mbf56ntybnyln5a4qleyp6x47y&width=500)
 ```
 
 ---
