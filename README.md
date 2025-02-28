@@ -104,7 +104,7 @@ $ hobbies --list
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chhand)
 </div>
-<h3>Check out What I'm Listening</h3>
+<h3>Check out What I'm Listening 🎼🎵🎸🎷🎧</h3>
 
 <div align="center">
 
@@ -115,7 +115,13 @@ $ hobbies --list
 ---
 
 ### 💡 **Fun Fact**
-> "Code is like humor. When you have to explain it, it’s bad." 😆  
+<div align="center" style="background: #f4f4f4; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+  <blockquote style="font-size: 1.2em; font-style: italic; color: #555;">
+    "Code is like humor. When you have to explain it, it’s bad." 😆
+  </blockquote>
+  <br/>
+  <a href="https://v2.jokeapi.dev/joke/Programming?type=single" target="_blank" style="background: #008CBA; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold;">🎭 Generate Random Programming Joke</a>
+</div>
 
 ---
 
