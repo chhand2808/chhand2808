@@ -23,6 +23,30 @@ $ hobbies --list
 🎮 Gaming 🎵 Music 🧜️ Traveling  
 ```
 
+
+---
+
+### 🏆 **Hackathons & Projects**
+<table>
+  <tr>
+    <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg1.jpg?alt=media&token=2354b05e-7b6f-4bbe-9b11-5212b4af28b3" width="100"/></td>
+    <td><strong>🏆 1st at SunHacks International Hackathon 2024 @Sandeep University Nashik</strong><br/>TopGoats.AI is an all in one Job Ready preparation website consisting of multiple features and multiple tech stacks from AI/ML to AR/VR to Generative AI. Features from AI Interview Bot, to Resume Score Generation, to Online tutoring and course preparation, ALL IN ONE PLACE. TOPGOATS.AI<br/><a href="https://devfolio.co">🔗 DevFolio Link</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg4.jpg?alt=media&token=6d081565-49ea-4c72-9e99-9c61dacf64dc" width="100"/></td>
+    <td><strong>🏆 1st at SPIT Hackathon 2025 @SPIT Mumbai</strong><br/>FURNISH.IO is a AR/VR based Furniture viewing and styling application. Applied over vast area of tech from Mobile App to Web App to Wearable Devices like Smartwatch, all include features of Furnish.IO, Supported by a large number of Furniture models and unique features like 2d Room Scanning, Floormap Generation and many more.<br/><a href="https://devfolio.co/projects/furnishio-afda">🔗 DevFolio Link</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg3.jpg?alt=media&token=67d9657d-658c-4c52-8fc3-e4849871f678" width="100"/></td>
+    <td><strong>🏆 1st Place at Ingenium 2.0 @IEEE FR.CRCE</strong><br/>MediSense is a smart, AI-driven healthcare platform designed to make medical access seamless, secure, and inclusive. With gesture-based controls, real-time vitals tracking, AI-powered diagnostics, and secure telemedicine, it ensures patients—especially those with mobility challenges or in remote areas—get timely and efficient care. By integrating smartwatch monitoring, predictive analytics, and real-time language translation, MediSense transforms healthcare into a connected, intelligent, and accessible experience for all. <br/><a href="https://devfolio.co/projects/medisense-e458">🔗 DevFolio Link</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://firebasestorage.googleapis.com/v0/b/basic-django-d77af.appspot.com/o/profile%2Fimg2.jpg?alt=media&token=7481db95-4abd-4e4f-9ca9-57cd4d1bc4ef" width="100"/></td>
+    <td><strong>🏆 1st in College at BitNBuild International Hackathon2024</strong><br/>Corporate Buzz is an all-in-one platform that simplifies corporate tournament management by handling scheduling, registrations, sponsorships, and real-time updates across web and mobile. Powered by Django and Flutter, it ensures smooth communication, seamless role-based access, and a user-friendly experience. With automated workflows and a dedicated sponsorship module, Corporate Buzz makes organizing tournaments efficient, engaging, and hassle-free.<br/><a href="https://devfolio.co/projects/corporate-buzz-c2b4">🔗 DevFolio Link</a></td>
+  </tr>
+</table>
+
+
 ---
 
 ### 🔥 **Languages & Tools**
