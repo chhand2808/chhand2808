@@ -126,7 +126,15 @@ $ hobbies --list
 ---
 
 ### 🚀 **Connect With Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chhand-chaughule/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/chhand2808)  
+<div align="center">
+  <a href="https://www.linkedin.com/in/chhand-chaughule/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/chhand2808">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter" alt="Twitter"/>
+  </a>
+  <br/>
+  <a href="https://chhand2808.devfolio.io" target="_blank" style="display: inline-block; background: #FF5733; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; margin-top: 10px;">🚀 View My DevFolio</a>
+</div>
 
 ---
