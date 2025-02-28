@@ -102,9 +102,7 @@ $ hobbies --list
 
 ### 🎶 **Now Playing**
 > If you love music, add this Spotify widget:
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chhand)
-</div>
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31mbf56ntybnyln5a4qleyp6x47y&width=500)
 
 ---
 
