@@ -127,7 +127,7 @@ $ hobbies --list
 
 ### 🎶 **Now Playing**
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/chhand)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31mbf56ntybnyln5a4qleyp6x47y)
 </div>
 <h3>Check out What I'm Listening 🎼🎵🎸🎷🎧</h3>
 
